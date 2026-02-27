@@ -6,7 +6,7 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo de Cagayan.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
-- 💬 Ask me about ...
+- 💬 Ask me about random stuffs and so on.
 - 📫 How to reach me: <20240030402@my.xu.edu.ph>
 
 ## 💻 Tech Stack
@@ -19,5 +19,11 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2026
+
+## ✨ Fun Facts
+- 🎸 I play guitar 
+- 🏐🎱 I am sporty
+- 🥋 I am part of XU's Karatedo Varsity Team
+- 🍌 I love banana
 
 Thanks for stopping by!
